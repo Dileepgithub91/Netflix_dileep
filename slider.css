@@ -1,0 +1,60 @@
+.img img
+{
+ width:12px;
+ height:15px;
+ Border:4px solid #f10969;
+ padding:4px;
+}
+ 
+
+.carousel-inner 
+{
+	height:500px;
+	margin-top:-20px;
+}
+.carousel-inner img
+{
+	width:100%;
+}
+.navbar-default
+{ 
+ 
+}
+li
+{
+ font-size:16px;
+}
+#products
+{
+ width:100;
+ float:left;
+ padding:20px 0 20px 0;
+
+}
+#products h1
+{
+ text-align:center;
+ font-size:24px;
+ color:#999;
+}
+#products img
+{
+ height:200px;
+ width:100%;
+}
+.box
+{
+ border:1px solid #ccc;
+ box-shadow:2px 2px 10px 2px gray;
+}
+.box h3
+{
+ font-size:20px;
+ text-align:center;
+ color:#fb6c4e;
+}
+.box h6
+{
+ font-size:18px;
+ text-align:center;
+}
